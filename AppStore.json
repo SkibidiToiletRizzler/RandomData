@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CoolGame",
+    "description": "A very cool game!",
+    "icon": "https://example.com/coolgame.png",
+    "link": "https://example.com/coolgame.apk"
+  },
+  {
+    "name": "SuperApp",
+    "description": "Best app ever made!",
+    "icon": "https://example.com/superapp.png",
+    "link": "https://example.com/superapp.apk"
+  }
+]
