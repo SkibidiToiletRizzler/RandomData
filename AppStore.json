@@ -10,5 +10,11 @@
     "description": "Best app ever made!",
     "icon": "https://example.com/superapp.png",
     "link": "https://example.com/superapp.apk"
+  },
+  {
+    "name": "miloszekxxd",
+    "description": "App Description",
+    "icon": "https://raw.githubusercontent.com/SkibidiToiletRizzler/RandomData/refs/heads/main/RobloxScreenShot20250205_200618007.png",
+    "link": "https://example.com/APPLINK.apk"
   }
 ]
